@@ -1,0 +1,7 @@
+Client_ID,Program_status,Housing_Status,Housing_Status_Date
+VWX,Active,missing_status,2017-05-15
+YZA,Active,Housed,2017-05-15
+JKL,Active,Unhoused,2017-06-06
+STU,Active,Unhoused,2017-06-15
+PQR,Active,Unhoused,2017-07-07
+GHI,Active,,
