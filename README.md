@@ -1,7 +1,7 @@
 Task
 ----
 
-The most recent housing status and housing status update date for all
+Return the most recent housing status and housing status update date for all
 clients who were active as of 5-15-2017. It is safe to assume that a
 client is still active if s/he does not have a subsequent inactive
 program status update.
